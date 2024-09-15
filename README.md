@@ -5,6 +5,7 @@ The ratings do not reflect health benefits, social missions, or organic status.
 Flavour is the most important component of the flavours of Cacao ratings.
 Diversity, balance, intensity, and purity of flavours are all considered. 
 It is possible for a straightforward single note chocolate to rate as high as a complex flavour profile that changes throughout. Genetics, terroir, post-harvest techniques, processing 
+
 Questions (Problems)
 1.	What is the overall distribution of chocolate bar ratings?
 o	How many ratings fall into the categories of low and high ratings?
